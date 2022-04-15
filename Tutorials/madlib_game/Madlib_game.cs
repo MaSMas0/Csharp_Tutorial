@@ -4,7 +4,7 @@ namespace Tutorials
 {
     class Program
     {
-        public static void Main(string[] args)
+         static void Main(string[] args)
         {
             string color, pluralNoun, Celebrity;
 

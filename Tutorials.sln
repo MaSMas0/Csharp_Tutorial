@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.21
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Tutorials", "Tutorials\Tutorials.csproj", "{1E2D5E7C-19C0-4A8B-9AC7-C24AB3CC8283}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Tutorials\Calculator.csproj", "{A7B00732-54E2-40AE-B9B7-BD1181FFBFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "madlib_game", "Tutorials\madlib_game\madlib_game.csproj", "{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1E2D5E7C-19C0-4A8B-9AC7-C24AB3CC8283}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{1E2D5E7C-19C0-4A8B-9AC7-C24AB3CC8283}.Debug|anycpu.Build.0 = Debug|anycpu
-		{1E2D5E7C-19C0-4A8B-9AC7-C24AB3CC8283}.Release|anycpu.ActiveCfg = Release|anycpu
-		{1E2D5E7C-19C0-4A8B-9AC7-C24AB3CC8283}.Release|anycpu.Build.0 = Release|anycpu
+		{A7B00732-54E2-40AE-B9B7-BD1181FFBFF4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A7B00732-54E2-40AE-B9B7-BD1181FFBFF4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A7B00732-54E2-40AE-B9B7-BD1181FFBFF4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A7B00732-54E2-40AE-B9B7-BD1181FFBFF4}.Release|anycpu.Build.0 = Release|anycpu
+		{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
