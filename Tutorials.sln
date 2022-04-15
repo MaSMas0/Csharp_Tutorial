@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Tutorials\Cal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "madlib_game", "Tutorials\madlib_game\madlib_game.csproj", "{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guessing_game", "Tutorials\Guessing_game\Guessing_game.csproj", "{A17D4306-C0EF-4857-94A9-692F54386952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -21,6 +23,10 @@ Global
 		{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{1686C7A1-FD0C-489D-A16F-34D37B2FC69C}.Release|anycpu.Build.0 = Release|Any CPU
+		{A17D4306-C0EF-4857-94A9-692F54386952}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{A17D4306-C0EF-4857-94A9-692F54386952}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{A17D4306-C0EF-4857-94A9-692F54386952}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{A17D4306-C0EF-4857-94A9-692F54386952}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
