@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "madlib_game", "Tutorials\ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guessing_game", "Tutorials\Guessing_game\Guessing_game.csproj", "{A17D4306-C0EF-4857-94A9-692F54386952}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponent_Method", "Tutorials\Exponent_Method\Exponent_Method.csproj", "{8FB88537-A046-4C54-8D34-65500B2E1E01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -27,6 +29,10 @@ Global
 		{A17D4306-C0EF-4857-94A9-692F54386952}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{A17D4306-C0EF-4857-94A9-692F54386952}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{A17D4306-C0EF-4857-94A9-692F54386952}.Release|anycpu.Build.0 = Release|Any CPU
+		{8FB88537-A046-4C54-8D34-65500B2E1E01}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{8FB88537-A046-4C54-8D34-65500B2E1E01}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{8FB88537-A046-4C54-8D34-65500B2E1E01}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{8FB88537-A046-4C54-8D34-65500B2E1E01}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
