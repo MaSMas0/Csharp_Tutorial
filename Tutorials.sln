@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guessing_game", "Tutorials\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponent_Method", "Tutorials\Exponent_Method\Exponent_Method.csproj", "{8FB88537-A046-4C54-8D34-65500B2E1E01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuesser", "Tutorials\NumberGuesser\NumberGuesser.csproj", "{758D4753-B1D0-4322-B4AC-1A613D45A581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -33,6 +35,10 @@ Global
 		{8FB88537-A046-4C54-8D34-65500B2E1E01}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{8FB88537-A046-4C54-8D34-65500B2E1E01}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{8FB88537-A046-4C54-8D34-65500B2E1E01}.Release|anycpu.Build.0 = Release|Any CPU
+		{758D4753-B1D0-4322-B4AC-1A613D45A581}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{758D4753-B1D0-4322-B4AC-1A613D45A581}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{758D4753-B1D0-4322-B4AC-1A613D45A581}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{758D4753-B1D0-4322-B4AC-1A613D45A581}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
