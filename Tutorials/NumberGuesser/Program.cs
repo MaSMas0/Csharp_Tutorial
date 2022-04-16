@@ -29,7 +29,14 @@ namespace NumberGuesser
 
             // Set correct number
 
-            int correctNumber = 7;
+            //int correctNumber = 7;        that is fixed let's try random
+
+            // Create a new Random object
+            Random random = new Random();
+
+            // assign a number to be randomly choosen from 1 to 10 
+
+            int correctNumber = random.Next(1, 10);
 
             // init guess var
             int guess = 0;
